@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "10083899450",
+    "project_id": "noussape",
+    "storage_bucket": "noussape.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10083899450:android:7c46fc97d57693708fbd03",
+        "android_client_info": {
+          "package_name": "com.noussape.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10083899450-tghta53ataktkhlihvjdq25h48p6k2g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5huzRyx6HxfiCP3do5SVn-5scto78n6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10083899450-tghta53ataktkhlihvjdq25h48p6k2g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10083899450:android:92d93bb41930c1778fbd03",
+        "android_client_info": {
+          "package_name": "com.noussape.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10083899450-hish8r0ntb3catm2upmlfv3rnanti39p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noussape.market",
+            "certificate_hash": "463107ff0ed9cef4b1e934d8b9f151e95f3759b5"
+          }
+        },
+        {
+          "client_id": "10083899450-tghta53ataktkhlihvjdq25h48p6k2g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5huzRyx6HxfiCP3do5SVn-5scto78n6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10083899450-tghta53ataktkhlihvjdq25h48p6k2g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10083899450:android:8b5b24e07b086cc88fbd03",
+        "android_client_info": {
+          "package_name": "com.noussape.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10083899450-tghta53ataktkhlihvjdq25h48p6k2g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5huzRyx6HxfiCP3do5SVn-5scto78n6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10083899450-tghta53ataktkhlihvjdq25h48p6k2g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
